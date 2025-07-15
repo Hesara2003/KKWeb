@@ -7,7 +7,7 @@ import { Progress } from './ui/progress';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from './ui/tabs';
 import { Avatar, AvatarFallback } from './ui/avatar';
 import { Button } from './ui/button';
-import { Zap, Footprints, Battery, ArrowRight } from 'lucide-react';
+import { Zap, Footprints, Battery} from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);
 
